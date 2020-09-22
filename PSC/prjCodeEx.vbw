@@ -1,0 +1,11 @@
+Resize = 110, 110, 671, 480, 
+MBrowseFolder = 132, 132, 653, 549, 
+CBrowseFolder = 110, 110, 631, 527, 
+ProgressBar = 44, 44, 565, 461, 
+clsIniRW = 44, 44, 605, 414, 
+frmSavePath = 132, 132, 687, 502, , 110, 110, 665, 480, C
+frmSavePathDialog = 59, 144, 614, 530, , 22, 22, 577, 408, C
+FolderIcons = 66, 66, 617, 534, 
+TrayIcon = 154, 154, 705, 622, 
+frmMain = 198, 198, 746, 666, , 176, 176, 724, 644, C
+ZipUnzip = 66, 66, 687, 525, 
